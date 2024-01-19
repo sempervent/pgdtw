@@ -1,0 +1,4 @@
+# pgdtw extension
+comment = 'Dynamic Time Warping algorithm'
+default_version = '1.0'
+relocatable = true
